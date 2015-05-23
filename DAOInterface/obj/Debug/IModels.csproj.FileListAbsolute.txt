@@ -1,4 +1,0 @@
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\bin\Debug\IModels.dll
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\bin\Debug\IModels.pdb
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\obj\Debug\IModels.dll
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\obj\Debug\IModels.pdb

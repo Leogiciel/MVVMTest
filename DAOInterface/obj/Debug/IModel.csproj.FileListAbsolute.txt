@@ -1,5 +1,0 @@
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\bin\Debug\DAOInterface.dll
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\bin\Debug\DAOInterface.pdb
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\obj\Debug\IModel.csprojResolveAssemblyReference.cache
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\obj\Debug\DAOInterface.dll
-d:\mes docs\visual studio 2013\Projects\MVVMTest\DAOInterface\obj\Debug\DAOInterface.pdb
