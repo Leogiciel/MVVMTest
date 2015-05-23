@@ -7,6 +7,7 @@ namespace DAOBuilder
     {
         public static IModel GetDAO()
         {
+            //Determine DAO Type
             return new DAO();
         }
     }

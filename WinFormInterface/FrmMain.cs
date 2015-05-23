@@ -18,7 +18,9 @@ namespace WinFormInterface
         public FrmMain()
         {
             InitializeComponent();
+            //Instanciate model
             _ViewModel = new ViewModel();
+            //Bind datasource
             var binding = new Binding("Text", _ViewModel, "Name");
             this.textBox1.DataBindings.Add(binding);
         }
@@ -31,6 +33,7 @@ namespace WinFormInterface
             }
             catch (Exception ex)
             {
+                //High-level exception handling
                 MessageBox.Show(ex.Message, "Exception");
             }
         }
