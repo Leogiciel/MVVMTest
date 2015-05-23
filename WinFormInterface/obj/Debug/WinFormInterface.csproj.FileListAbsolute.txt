@@ -15,3 +15,6 @@ d:\mes docs\visual studio 2013\Projects\MVVMTest\WinFormInterface\bin\Debug\DAOs
 d:\mes docs\visual studio 2013\Projects\MVVMTest\WinFormInterface\bin\Debug\DAOs.pdb
 d:\mes docs\visual studio 2013\Projects\MVVMTest\WinFormInterface\bin\Debug\IModels.dll
 d:\mes docs\visual studio 2013\Projects\MVVMTest\WinFormInterface\bin\Debug\IModels.pdb
+D:\Mes docs\GitHub\MVVMTest\WinFormInterface\bin\Debug\WinFormInterface.exe.config
+D:\Mes docs\GitHub\MVVMTest\WinFormInterface\obj\Debug\WinFormInterface.exe
+D:\Mes docs\GitHub\MVVMTest\WinFormInterface\obj\Debug\WinFormInterface.pdb
