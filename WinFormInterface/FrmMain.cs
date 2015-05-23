@@ -13,12 +13,12 @@ namespace WinFormInterface
 {
     public partial class FrmMain : Form
     {
-        private EntityViewModel _ViewModel { get; set; }
+        private ViewModel _ViewModel { get; set; }
 
         public FrmMain()
         {
             InitializeComponent();
-            _ViewModel = new EntityViewModel();
+            _ViewModel = new ViewModel();
             var binding = new Binding("Text", _ViewModel, "Name");
             this.textBox1.DataBindings.Add(binding);
         }

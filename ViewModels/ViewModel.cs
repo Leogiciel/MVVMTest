@@ -2,7 +2,7 @@
 
 namespace ViewModels
 {
-    public class EntityViewModel
+    public class ViewModel
     {
         private IModel _Model { get; set; }
 
@@ -13,7 +13,7 @@ namespace ViewModels
             set { name = value; }
         }
 
-        public EntityViewModel()
+        public ViewModel()
         {
             _Model = DAOBuilder.Builder.GetDAO();
         }
